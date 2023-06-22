@@ -556,6 +556,19 @@ input {
     color: #FFBD00 !important;
     border: 1px solid #FFBD00;
 }
+.footer hr {
+    height: 2px;
+    margin: auto;
+    width: 95%;
+    margin-top: 2rem;
+}
+.copyright {
+    margin-top: 2rem;
+    text-align: center;
+}
+.copyright p {
+    color: #9B9EAC;
+}
 @media screen and (max-width: 770px) {
     .evento {
         padding: 0 !important;
