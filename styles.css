@@ -584,7 +584,10 @@ input {
     }
     .speaker-top {
         padding: 2rem 0;
-        /* gap: 2rem; */
+        display: flex;
+        justify-content: left;
+        flex-direction: column;
+        gap: 2rem;
     } 
     .speaker-images {
         width: 80vw;
